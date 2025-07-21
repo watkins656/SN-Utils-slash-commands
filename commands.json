@@ -1,0 +1,9 @@
+{
+    "rows": {
+        "url": "javascript: void(function(){ \n  var loc = String(top.location);\n  if (loc.indexOf('service-now.com') > -1) { \n    top.location += '&sysparm_force_row_count=$0';\n  }\n})()",
+        "hint": "Force the number of rows to display",
+        "fields": "",
+        "order": 0,
+        "overwriteurl": ""
+    }
+}
